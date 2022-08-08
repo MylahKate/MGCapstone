@@ -1,19 +1,85 @@
-# WeGo Public Transit
+README.md
+# Project Name
+> Outline a brief description of your project.
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-[WeGo Public Transit](https://www.wegotransit.com/) is a public transit system serving the Greater Nashville and Davidson County area. WeGo provides local and regional bus routes, the WeGo Star train service connecting Lebanon to downtown Nashville, along with several other transit services.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-In this project, your goal will be to analyze data from WeGo's bus routes and attempt to identify intersections and other locations which experience frequent delays. This analysis can look by route, by direction of travel, and by day or day of the week. You can also consider time of day in your investigation (for example, comparing the AM and PM rush on Monday through Friday).
 
-You can obtain the data for this project through Swiftly. You will be provided with an API key to  access this data. The API that you will be using is the [Speed Map API](https://swiftly-inc.stoplight.io/docs/standalone/573bc3fb95867-speed-map), which provides average speed information for a single route and direction over a given date range. Note that the API can return either speed data at the stop segment level or return high resolution data, which provides information for stop segments of approximately 25 meters along with more detailed speed and duration information. Please take the time to carefully read the API documentation so that you are familiar with the query parameter options and understand the response data.
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-You can get more information about these routes, such as route numbers and stop information, using the [Agency Routes API](https://swiftly-inc.stoplight.io/docs/standalone/5c0bd000bb0f2-agency-routes). A user-friendly map showing all routes is available at https://www.wegotransit.com/ride/maps-schedules/bus/. 
 
-If time allows, investigate all routes, but start with the high ridership and frequent routes:
-* 3: West End
-* 7: Hillsboro
-* 22: Bordeaux
-* 23: Dickerson Pike
-* 50: Charlotte Pike
-* 52: Nolensville Pike
-* 55: Murfreesboro Pike
-* 56: Gallatin Pike
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
+
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+
+## Setup
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+Proceed to describe how to install / setup one's local environment / get started with the project.
+
+
+## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
+
+`write-your-code-here`
+
+
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+
+
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@mylahkate](https://github.com/MylahKate/) - feel free to contact me!
+
+
