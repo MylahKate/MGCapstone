@@ -1,7 +1,7 @@
 README.md
 # Capstone Car Search
 > In July of 2022, I was in a head-on auto collision. My vehicle was wrecked and I was hunting for a new car. I was very concerned about the next vehicle I would purchase, as though I had no clue what type I should get. This motivated me to look for data that could show different automobile comparisons. I have developed a strong interest in automobile safety and need to identify the best cars for me. The intended audience for this presentation includes but is not limited to individuals searching for a new automobile, automobile competitors, car safety advocates/liaisons, and government officials that could potentially improve legislation around the topic.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://www.example.com). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -30,15 +30,8 @@ README.md
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Each dashboard drills down
 
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Project Status
@@ -46,21 +39,17 @@ Project is: _in progress_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Add more interactive features
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Look at the different models
+- Figure out how to tie it in one dataset
+- Identify vehicles as SUVs or Cars to compare amounts in accidents
 
 
 ## Acknowledgements ***
-Give credit here.
 - This project was inspired by my husband, Blaise Gainey. His line of questioning and insightful suggestions always seem to push me in directions I never knew existed. 
-- This project was based on [this tutorial](https://www.example.com).
 - Many thanks to Chris Wright and Josh Rio-Ross for always having a quick punch-line and a chipper smile to keep me pushing regardless of how tough things seemed. 
 
 
