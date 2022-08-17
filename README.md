@@ -1,6 +1,6 @@
 README.md
 # Capstone Car Search
-> In July of 2022, I was in a head-on auto collision. My vehicle was wrecked and I was hunting for a new car. I was very concerned about the next vehicle I would purchase, as though I had no clue what type I should get. This motivated me to look for data that could show different automobile comparisons. I have developed a strong interest in automobile safety and need to identify the best cars for me. The intended audience for this presentation includes but is not limited to individuals searching for a new automobile, automobile competitors, car safety advocates/liaisons, and government officials that could potentially improve legislation around the topic.
+> In July of 2022, I was in a head-on auto collision. My vehicle was wrecked and I was hunting for a new car. I was very concerned about the next vehicle I would purchase, as though I had no clue what type I should get. This motivated me to look for data that could show different automobile comparisons. I have developed a strong interest in automobile safety and need to identify the best cars for me. The intended audience for this presentation is individuals searching for a new automobile.
 > Live demo [_here_](https://www.example.com). 
 
 ## Table of Contents
@@ -55,4 +55,3 @@ To do:
 
 ## Contact
 Created by [@mylahkate](https://github.com/MylahKate/) - feel free to contact me!
-
