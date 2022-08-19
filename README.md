@@ -1,7 +1,7 @@
 README.md
 # Capstone Car Search
 > In July of 2022, I was in a head-on auto collision. My vehicle was wrecked and I was hunting for a new car. I was very concerned about the next vehicle I would purchase, as though I had no clue what type I should get. This motivated me to look for data that could show different automobile comparisons. I have developed a strong interest in automobile safety and need to identify the best cars for me. The intended audience for this presentation is individuals searching for a new automobile.
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://public.tableau.com/views/Car_Capstone_MG_Tab/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link). 
 
 ## Table of Contents
 * [General Info](#general-information)
